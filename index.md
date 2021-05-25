@@ -1,9 +1,8 @@
 
 ## Programming for Quantitative Analysis
 
-You can use the [editor on GitHub](https://github.com/Helgone/ProForQ/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is the companion website for the final project within the course *4,796: Skills: Programming for Quantitative Analysis*, taught by Prof. Valladares‑Esteban.
+The project which has been submitted from my part revolves around the use of Python for empirical economic research, i.e., econometrics, or the quantitative analysis of actual economic phenomena.
 
 ### Literature
 
