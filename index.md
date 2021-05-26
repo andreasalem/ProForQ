@@ -62,48 +62,8 @@ The project which has been submitted from my part revolves around the use of Pyt
 <img src="https://raw.githubusercontent.com/Helgone/ProForQ/master/Linear_Regressiom.png" title="Anatomy of a Matplotlib figure" class="center" width="250">
 </div>
 
-```latex
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
 
-\begin{table}[!htbp] \centering \setlength{\tabcolsep}{1pt}
-  \parbox[t]{10cm}{\centering \textsc{Table 3—Main Experimental Results} \\ (\textit{OLS regressions})}
-  \label{} 
-\scriptsize 
-\begin{tabular}{@{\extracolsep{1pt}}lcccccc} 
-\\[-1.8ex]\hline 
-\hline \\[-1.8ex] 
-\\[-1.8ex] & \multicolumn{3}{c}{\shortstack{Dependent variable:\\ Revenues per four-week period}} & \multicolumn{3}{c}{\shortstack{Dependent variable:\\ Shifts per four-week period}} \\ 
-\cline{2-4}  \cline{5-7}
-\\[-1.8ex] & (1) & (2) & (3) & (4) & (5) & (6)\\
-\hline \\[-1.8ex] 
-\parbox[t]{3cm}{Observations are \\ restricted to} & \parbox[t]{2cm}{\centering Messengers \\ participating in \\ experiment}  & \parbox[t]{2cm}{\centering All \\ messengers at \\ Veloblitz} & \parbox[t]{2cm}{\centering All \\ messengers at \\ Flash and \\ Veloblitz} & \parbox[t]{2cm}{\centering Messengers \\ participating in \\ experiment} & \parbox[t]{2cm}{\centering All \\ messengers at \\ Veloblitz} & \parbox[t]{2cm}{\centering All \\ messengers at \\ Flash and \\ Veloblitz} \\ 
-  & & & & & & \\ 
- Treatment dummy & 1,033.560$^{***}$ & 1,094.496$^{***}$ & 1,035.8$^{***}$ & 3.986$^{***}$ & 4.083$^{***}$ & 3.435$^{***}$ \\ 
-  & (326.854) & (297.844) & (297.14) & (1.0253) & (0.9416) & (0.941) \\ 
-  & & & & & & \\ 
- \parbox[t]{3cm}{Dummy for nontreated \\ at Veloblitz}   &  &  & $-$54.40 &  &  & $-$0.628 \\ 
-  &  &  & (407.436) &  &  & (1.526) \\ 
-  & & & & & & \\ 
- Treatment period 1 & $-$210.972 & $-$370.619 & $-$264.76 & $-$1.275 & $-$1.570 & $-$0.716 \\ 
-  & (497.2502) & (334.086) & (239.86) & (1.716) & (1.207) & (0.99467) \\ 
-  & & & & & & \\ 
- Treatment period 2 & $-$574.712 & $-$656.233$$ & $-$650.48$^{**}$ & $-$2.561$$ & $-$2.631$^{**}$ & $-$2.216$^{**}$ \\ 
-  & (545.675) & (357.929) & (284.93) & (1.862) & (1.259) & (1.0855) \\ 
-  & & & & & & \\ 
-Individual fixed effects & Yes & Yes & Yes & Yes & Yes & Yes \\ 
-\textit{R} squared & 0.740 & 0.786 & 0.753 & 0.694 & 0.740 & 0.695 \\
-\textit{N} & 124 & 190 & 386 & 124 & 190 & 386 \\ 
-\hline 
-\hline \\[-1.8ex] 
-\multicolumn{5}{l} {\parbox[t]{11cm}{ \textit{Note:} Robust standard errors, adjusted for clustering on messengers, are in parentheses. \
- *** Indicates significance at the 1-percent level. \\
- ** Indicates significance at the 5-percent level. \\
- \text{*} Indicates significance at the 10-percent level.}} \\
-  \textit{Source:} Own calculations.
-\end{tabular} 
-\end{table}
-
-
-```
 
 ### Literature
 
