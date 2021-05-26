@@ -4,7 +4,7 @@
 This is the companion website for the final project within the course *4,796: Skills: Programming for Quantitative Analysis*, taught by Prof. Valladares‑Esteban.
 The project which has been submitted from my part revolves around the use of Python for empirical economic research, i.e., econometrics, or the quantitative analysis of actual economic phenomena.
 
-<font size="5">****Table of Contents****</font>  
+<font size="5">Table of Contents</font>  
 
 1. [Introduction to Impact Evaluation](#introduction)
 
@@ -41,6 +41,31 @@ The project which has been submitted from my part revolves around the use of Pyt
 
 
 8. [Conclusion and discussion](#conclusion_and_discussion)
+
+
+
+
+
+
+
+
+
+
+<font size="5">****3&nbsp;&nbsp; Randomized  Field  Experiments: An Empirical Method to Make Causal Claims****</font>
+
+
+<br>
+<br>
+
+
+<div style="text-align:center">
+<img src="https://raw.githubusercontent.com/Helgone/ProForQ/master/Linear_Regressiom.png" title="Anatomy of a Matplotlib figure" class="center" width="250">
+</div>
+
+
+
+
+
 
 
 ### Literature
