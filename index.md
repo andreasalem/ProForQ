@@ -60,7 +60,7 @@ The project which has been submitted from my part revolves around the use of Pyt
 **3.3**
 
 <div style="text-align:center">
-<img src="https://raw.githubusercontent.com/Helgone/ProForQ/master/Table1.png" class="center" width="250">
+<img src="https://raw.githubusercontent.com/Helgone/ProForQ/master/Table1.png" class="center" width="1950">
 </div>
 
 
