@@ -62,7 +62,7 @@ The project which has been submitted from my part revolves around the use of Pyt
 <img src="https://raw.githubusercontent.com/Helgone/ProForQ/master/Linear_Regressiom.png" title="Anatomy of a Matplotlib figure" class="center" width="250">
 </div>
 
-```math
+```latex
 
 \begin{table}[!htbp] \centering \setlength{\tabcolsep}{1pt}
   \parbox[t]{10cm}{\centering \textsc{Table 3—Main Experimental Results} \\ (\textit{OLS regressions})}
