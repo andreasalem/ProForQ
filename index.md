@@ -14,6 +14,9 @@ The project which has been submitted from my part revolves around the use of Pyt
 
 3. [Randomized Field Experiments](#RCT)  
 
+&nbsp;&nbsp;&nbsp;3.1 [Theory](#theory3.1)
+&nbsp;&nbsp;&nbsp;3.2 [Theory](#theory3.2)
+&nbsp;&nbsp;&nbsp;3.3 [Theory](#theory3.3)
 
 
 4. [Difference in Differences](#DinD)  
@@ -57,6 +60,7 @@ The project which has been submitted from my part revolves around the use of Pyt
 <br>
 <br>
 
+<a id='theory3.3'></a>
 **3.3**
 
 <div style="text-align:center">
