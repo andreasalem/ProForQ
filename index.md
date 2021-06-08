@@ -100,10 +100,10 @@ helps to control for demand variations over time. In fact, the treatment dummy i
 
 Fehr, E., & Goette, L. (2007). Do Workers Work More if Wages Are High? Evidence from a Randomized Field Experiment. *American Economic Review*, 97 (1): 298-317.
 
-Douglas Almond, Joseph Doyle, Amanda Kowalski, and Heidi Williams (2010). Estimating marginal returns to
+Almond, D., Doyle, J., Kowalski, A. & Williams, H. (2010). Estimating marginal returns to
 medical care: Evidence from at-risk newborns. *Quarterly Journal of Economics*, 125 (2): 591-634.
 
-Angrist, J.D. & Krueger, A. (1991). Does Compulsory School Attendance Affect Schooling and Earnings? *The Quarterly Journal of Economics*, vol. 106(4), pages 979-1014.
+Angrist, J. & Krueger, A. (1991). Does Compulsory School Attendance Affect Schooling and Earnings? *The Quarterly Journal of Economics*, vol. 106(4), pages 979-1014.
 
 Card, D., & Krueger, A. (1994). Minimum Wages and Employment: A Case Study of the Fast-Food Industry in New Jersey and Pennsylvania: Reply. *The American Economic Review*, 90(5), 1397-1420.
 
