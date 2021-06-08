@@ -3,10 +3,9 @@
 
 This is the companion website for the final project within the course
 <br>
-<center><b> 4,796: Skills: Programming for Quantitative Analysis</b>. </center> <br>
+<center><b> 4,796: Skills: Programming for Quantitative Analysis</b> </center> <br>
 <br>
-taught by Prof. Valladares‑Esteban.
-The project which has been submitted from my part revolves around the use of Python for empirical economic research, i.e., econometrics, or the quantitative analysis of actual economic phenomena.
+taught by Prof. Valladares‑Esteban. The project which has been submitted from my part revolves around the use of Python for empirical economic research. The main body of the project is part of the Jupyter Notebook file contaning the code. This website serves to extend certain explanations and enrich the the project with extra material not present in the Notebook file.
 
 <font size="5">Table of Contents</font>  
 
