@@ -3,7 +3,7 @@
 
 This is the companion website for the final project within the course
 <br>
-<center><b> 4,796: Skills: Programming for Quantitative Analysis</b> </center> <br>
+<center><b> 4,796: Skills: Programming for Quantitative Analysis</b> </center> 
 
 taught by Prof. Valladares‑Esteban. The project which has been submitted from my part revolves around the use of Python for empirical economic research. The main body of the project is part of the Jupyter Notebook file contaning the code. This website serves to extend certain explanations and enrich the the project with extra material not present in the Notebook file.
 
@@ -14,12 +14,10 @@ taught by Prof. Valladares‑Esteban. The project which has been submitted from 
 
 2. [Technical Set-Up](#setup)
 
+Nothing to note here.
 
 3. [Randomized Field Experiments](#RCT)  
-
 &nbsp;&nbsp;&nbsp;3.1 [Theory](#theory3.1)
-&nbsp;&nbsp;&nbsp;3.2 [Theory](#theory3.2)
-&nbsp;&nbsp;&nbsp;3.3 [Theory](#theory3.3)
 
 
 4. [Difference in Differences](#DinD)  
@@ -63,7 +61,7 @@ taught by Prof. Valladares‑Esteban. The project which has been submitted from 
 <br>
 <br>
 
-<a id='theory3.3'></a>
+<a id='theory3.1'></a>
 **3.3**
 
 <div style="text-align:center">
