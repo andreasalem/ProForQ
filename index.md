@@ -27,19 +27,8 @@ taught by Prof. Valladares‑Esteban. The project which has been submitted from 
 5. [Regression Discontinuity](#RDD)  
   
 
-
-
-
 6. [Instrumental Variables](#IV)  
  
-
-
-
-7. [Limitations of RCTs](#limitations)  
-
-
-
-8. [Conclusion and discussion](#conclusion_and_discussion)
 
 
 
