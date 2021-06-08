@@ -92,7 +92,7 @@ helps to control for demand variations over time. In fact, the treatment dummy i
 **4.1** 
 
 <div style="text-align:center">
-<img src="https://raw.githubusercontent.com/Helgone/ProForQ/master/Table_2.png" class="center" width="1950">
+<img src="https://raw.githubusercontent.com/Helgone/ProForQ/master/Table_2.png" class="center" width="1150">
 </div>
 
 ### Literature
