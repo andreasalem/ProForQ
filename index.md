@@ -92,31 +92,20 @@ helps to control for demand variations over time. In fact, the treatment dummy i
 **4.1** 
 
 <div style="text-align:center">
-<img src="https://raw.githubusercontent.com/Helgone/ProForQ/master/Table_2.png" class="center" width="1150">
+<img src="https://raw.githubusercontent.com/Helgone/ProForQ/master/Table_2.png" class="center" width="900">
 </div>
+
 
 ### Literature
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Fehr, E., & Goette, L. (2007). Do Workers Work More if Wages Are High? Evidence from a Randomized Field Experiment. *American Economic Review*, 97 (1): 298-317.
 
-```markdown
-Syntax highlighted code block
+Douglas Almond, Joseph Doyle, Amanda Kowalski, and Heidi Williams (2010). Estimating marginal returns to
+medical care: Evidence from at-risk newborns. *Quarterly Journal of Economics*, 125 (2): 591-634.
 
-# Header 1
-## Header 2
-### Header 3
+Angrist, J.D. & Krueger, A. (1991). Does Compulsory School Attendance Affect Schooling and Earnings? *The Quarterly Journal of Economics*, vol. 106(4), pages 979-1014.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Card, D., & Krueger, A. (1994). Minimum Wages and Employment: A Case Study of the Fast-Food Industry in New Jersey and Pennsylvania: Reply. *The American Economic Review*, 90(5), 1397-1420.
 
 ### License
 
