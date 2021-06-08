@@ -74,12 +74,15 @@ As we can see from the table, the authors estimate three different models per ou
 </p>
 
 
-
+<p align="justify">
 Regressions (2) and (5) instead, compare the experimental treatment group at Veloblitz with all other messengers at Veloblitz, not only with the experimental control group. This means that now the treatment dummy compares the treated with the whole group of untreated messengers at Veloblitz. Concerning total revenues, regression (2) again finds a large and significant treatment effect on total revenues of roughly CHF 1,000; concerning shifts, regression (5) also practically
 replicates the results from regression (2), finding that the treated group works on average four shifts more than the control group.
+</p>
+
+<p align="justify">
 Finally, regressions (3) and (6) use observations from all messengers at Veloblitz plus messengers at Flash, another messenger service in Zürich. Thus, the data used for these last two models is combined with the full records from a second messenger service operating in the same market, with which Veloblitz’s total daily revenues are strong correlated. This is done for investigating any effect that the experiment might have had on the nonparticipating messengers at Veloblitz, and
 helps to control for demand variations over time. In fact, the treatment dummy in these last two regression still measures something different than before: it measures whether the treated group at Veloblitz behaved differently relative to messengers at Flash. Furthermore, the inclusion of a new dummy variable for the whole non-treated group at Veloblitz (i.e., non-participating messengers plus the control), also allows to measures whether the experiment had an effect on the whole nontreated group at Veloblitz by comparing this group with Flash messenger. The point estimate on this last dummy is in both (3) and (6) small and insignificant, suggesting that the wage increase had no effect on the nontreated group at Veloblitz. This result suggests that the experiment did not constrain the opportunities for working for the nontreated group at Veloblitz (and is consistent with the hypothesis of permanent existence of unfilled shifts). Finally, in both these models, the treatment dummy is significant and of similar size as in the previous regressions.
-
+</p>
 
 
 
