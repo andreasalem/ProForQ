@@ -9,7 +9,7 @@ taught by Prof. Valladares‑Esteban. The project which has been submitted from 
 
 <font size="5">Table of Contents</font>  
 
-1. [Introduction to Impact Evaluation](#introduction)
+1. [Introduction to Impact Evaluation](#introduction) <br>
 
 
 2. [Technical Set-Up](#setup)
@@ -23,18 +23,10 @@ taught by Prof. Valladares‑Esteban. The project which has been submitted from 
 &nbsp;&nbsp;&nbsp;4.1 [Table 2](#theory4.1)  
 
 
-
-5. [Regression Discontinuity](#RDD)  
-  
-
-6. [Instrumental Variables](#IV)  
- 
-
-
-
-
+<a id='introduction'></a>
 <font size="5">1&nbsp;&nbsp; Introduction to Impact Evaluation</font>
 
+<a id='setup'></a>
 <font size="5">2&nbsp;&nbsp; Technical Set-Up</font>
 
 Nothing to note here.
