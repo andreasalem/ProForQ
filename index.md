@@ -9,24 +9,23 @@ taught by Prof. Valladares‑Esteban. The project which has been submitted from 
 
 <font size="5">Table of Contents</font>  
 
-1. [Introduction to Impact Evaluation](#introduction) <br>
+1. Introduction to Impact Evaluation <br>
 
 
-2. [Technical Set-Up](#setup)
+2. Technical Set-Up
 
 
-3. [Randomized Field Experiments](#RCT)  
+3. Randomized Field Experiments  
 &nbsp;&nbsp;&nbsp;3.1 [Table 1](#theory3.1)
 
 
-4. [Difference in Differences](#DinD)  
+4. Difference in Differences 
 &nbsp;&nbsp;&nbsp;4.1 [Table 2](#theory4.1)  
 
 
-<a id='introduction'></a>
+
 <font size="5">1&nbsp;&nbsp; Introduction to Impact Evaluation</font>
 
-<a id='setup'></a>
 <font size="5">2&nbsp;&nbsp; Technical Set-Up</font>
 
 Nothing to note here.
