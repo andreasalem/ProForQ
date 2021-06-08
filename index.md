@@ -68,7 +68,13 @@ Nothing to note here.
 <img src="https://raw.githubusercontent.com/Helgone/ProForQ/master/Table1.png" class="center" width="1950">
 </div>
 
+
+<p align="justify">
 As we can see from the table, the authors estimate three different models per outcome. What changes across models? First of all the data used in the calculations is different in each model. Regressions (1) and (4) are based only on the data of groups A and B (participating messengers) at Veloblitz. Due to the random assignment of the participating messengers, and due to the fact that both groups served once as a control and once as a treatment group, these two regressions allow for a clear isolation of the treatment effect of the 25% increase of the commission rate on total revenues and on the number per shifts.
+</p>
+
+
+
 Regressions (2) and (5) instead, compare the experimental treatment group at Veloblitz with all other messengers at Veloblitz, not only with the experimental control group. This means that now the treatment dummy compares the treated with the whole group of untreated messengers at Veloblitz. Concerning total revenues, regression (2) again finds a large and significant treatment effect on total revenues of roughly CHF 1,000; concerning shifts, regression (5) also practically
 replicates the results from regression (2), finding that the treated group works on average four shifts more than the control group.
 Finally, regressions (3) and (6) use observations from all messengers at Veloblitz plus messengers at Flash, another messenger service in Zürich. Thus, the data used for these last two models is combined with the full records from a second messenger service operating in the same market, with which Veloblitz’s total daily revenues are strong correlated. This is done for investigating any effect that the experiment might have had on the nonparticipating messengers at Veloblitz, and
