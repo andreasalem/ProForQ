@@ -14,29 +14,24 @@ taught by Prof. Valladares‑Esteban. The project which has been submitted from 
 
 2. [Technical Set-Up](#setup)
 
-Nothing to note here.
 
 3. [Randomized Field Experiments](#RCT)  
-&nbsp;&nbsp;&nbsp;3.1 [Theory](#theory3.1)
+&nbsp;&nbsp;&nbsp;3.1 [Table 1](#theory3.1)
 
 
 4. [Difference in Differences](#DinD)  
-&nbsp;&nbsp;&nbsp;4.1 [Theory](#theory1)  
-&nbsp;&nbsp;&nbsp;4.2 [Example](#example1)
+&nbsp;&nbsp;&nbsp;4.1 [Table 2](#theory4.1)  
 
 
 
 5. [Regression Discontinuity](#RDD)  
-&nbsp;&nbsp;&nbsp;5.1 [Theory](#theory2)  
-&nbsp;&nbsp;&nbsp;5.2 [Example](#example2)  
+  
 
 
 
 
 6. [Instrumental Variables](#IV)  
-&nbsp;&nbsp;&nbsp;6.1 [Theory](#theory3)  
-&nbsp;&nbsp;&nbsp;6.2 [Example](#example3) <br/>
-&nbsp;&nbsp;&nbsp;6.3 [Simulation](#simulation) 
+ 
 
 
 
@@ -49,8 +44,11 @@ Nothing to note here.
 
 
 
+<font size="5">1&nbsp;&nbsp; Introduction to Impact Evaluation</font>
 
+<font size="5">2&nbsp;&nbsp; Technical Set-Up</font>
 
+Nothing to note here.
 
 
 
@@ -62,7 +60,7 @@ Nothing to note here.
 <br>
 
 <a id='theory3.1'></a>
-**3.3**
+**3.1** 
 
 <div style="text-align:center">
 <img src="https://raw.githubusercontent.com/Helgone/ProForQ/master/Table1.png" class="center" width="1950">
@@ -85,6 +83,17 @@ helps to control for demand variations over time. In fact, the treatment dummy i
 </p>
 
 
+<font size="5">4&nbsp;&nbsp; Difference in Differences</font>
+
+<br>
+<br>
+
+<a id='theory4.1'></a>
+**4.1** 
+
+<div style="text-align:center">
+<img src="https://raw.githubusercontent.com/Helgone/ProForQ/master/Table_2.png" class="center" width="1950">
+</div>
 
 ### Literature
 
