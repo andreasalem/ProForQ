@@ -24,7 +24,7 @@ taught by Prof. Valladares‑Esteban. The project which has been submitted from 
 
 
 
-<font size="5">1&nbsp;&nbsp; Introduction to Impact Evaluation</font>
+<font size="5">1&nbsp;&nbsp; Introduction to Impact Evaluation</font> <br>
 
 <font size="5">2&nbsp;&nbsp; Technical Set-Up</font>
 
