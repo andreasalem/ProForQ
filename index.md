@@ -7,24 +7,24 @@ This is the companion website for the final project within the course
 <br>
 taught by Prof. Valladares‑Esteban. The project which has been submitted from my part revolves around the use of Python for empirical economic research. The main body of the project is part of the Jupyter Notebook file contaning the code. This website serves to extend certain explanations and enrich the the project with extra material not present in the Notebook file.
 
-<font size="5">Table of Contents</font>  
+<font size="5">Table of Contents</font>  <br>
 
-1. Introduction to Impact Evaluation <br>
+* 1. Introduction to Impact Evaluation <br>
+
+Here are two useful websites for who wants to learn more about what impact evaluation in the real world looks like:
+
+  - [J-PAL](https://www.povertyactionlab.org/)
+  - [Innovations for Poverty Action (IPA)](https://www.poverty-action.org/)
+  - [Evidence for Policy Design (EPoD)](https://epod.cid.harvard.edu/)
+  
+* 2. Technical Set-Up
 
 
-
-- [J-PAL](https://www.povertyactionlab.org/)
-- [Innovations for Poverty Action (IPA)](https://www.poverty-action.org/)
-- [Evidence for Policy Design (EPoD)](https://epod.cid.harvard.edu/)
-
-2. Technical Set-Up
-
-
-3. Randomized Field Experiments  <br>
+* 3. Randomized Field Experiments  <br>
 &nbsp;&nbsp;&nbsp;3.1 [Table 1](#theory3.1)
 
 
-4. Difference in Differences <br>
+* 4. Difference in Differences <br>
 &nbsp;&nbsp;&nbsp;4.1 [Table 2](#theory4.1)  
 
 
