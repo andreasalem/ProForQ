@@ -35,7 +35,7 @@ Here are two useful websites for who wants to learn more about what impact evalu
 
 <font size="5">2&nbsp;&nbsp; Technical Set-Up</font>
 
-Nothing to note here.
+The ipynb file with the main body of the project is also available at [this link](https://drive.switch.ch/index.php/s/2vcp5npHib4q01Y). We reccomend opening the file in the local Jupyter Notebook server, since the rendering could be different on other platforms (such as Google Collab, nbviewer, etc.). We also remind everyone to modify the current working directory at the beginning of the ipynb file in order to run the entire script correctly. 
 
 
 
