@@ -15,11 +15,11 @@ taught by Prof. Valladares‑Esteban. The project which has been submitted from 
 2. Technical Set-Up
 
 
-3. Randomized Field Experiments  
+3. Randomized Field Experiments  <br>
 &nbsp;&nbsp;&nbsp;3.1 [Table 1](#theory3.1)
 
 
-4. Difference in Differences 
+4. Difference in Differences <br>
 &nbsp;&nbsp;&nbsp;4.1 [Table 2](#theory4.1)  
 
 
