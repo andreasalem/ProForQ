@@ -11,11 +11,6 @@ taught by Prof. Valladares‑Esteban. The project which has been submitted from 
 
 1. Introduction to Impact Evaluation <br>
 
-Here are two useful websites for who wants to learn more about what impact evaluation in the real world looks like:
-
-  - [J-PAL](https://www.povertyactionlab.org/)
-  - [Innovations for Poverty Action (IPA)](https://www.poverty-action.org/)
-  - [Evidence for Policy Design (EPoD)](https://epod.cid.harvard.edu/)
   
 2. Technical Set-Up <br>
 
@@ -30,6 +25,12 @@ Here are two useful websites for who wants to learn more about what impact evalu
 
 
 <font size="5">1&nbsp;&nbsp; Introduction to Impact Evaluation</font> <br>
+
+Here are two useful websites for who wants to learn more about what impact evaluation in the real world looks like:
+
+  - [J-PAL](https://www.povertyactionlab.org/)
+  - [Innovations for Poverty Action (IPA)](https://www.poverty-action.org/)
+  - [Evidence for Policy Design (EPoD)](https://epod.cid.harvard.edu/)
 
 <font size="5">2&nbsp;&nbsp; Technical Set-Up</font>
 
