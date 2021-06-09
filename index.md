@@ -25,7 +25,7 @@ taught by Prof. Valladares‑Esteban. The project which has been submitted from 
 <br>
 <br>
 
-<font size="5">1&nbsp;&nbsp; Introduction to Impact Evaluation</font> <br>
+<font size="5">1&nbsp;&nbsp; Introduction to Impact Evaluation</font> 
 
 Here are two useful websites for who wants to learn more about what impact evaluation in the real world looks like:
 
@@ -33,12 +33,14 @@ Here are two useful websites for who wants to learn more about what impact evalu
   - [Innovations for Poverty Action (IPA)](https://www.poverty-action.org/)
   - [Evidence for Policy Design (EPoD)](https://epod.cid.harvard.edu/)
 
+<br>
+
 <font size="5">2&nbsp;&nbsp; Technical Set-Up</font>
 
 The ipynb file with the main body of the project is also available at [this link](https://drive.switch.ch/index.php/s/2vcp5npHib4q01Y). We reccomend opening the file in the local Jupyter Notebook server, since the rendering could be different on other platforms (such as Google Collab, nbviewer, etc.). We also remind everyone to modify the current working directory at the beginning of the ipynb file in order to run the entire script correctly. 
 
 
-
+<br>
 
 <font size="5">3&nbsp;&nbsp; Randomized  Field  Experiments: An Empirical Method to Make Causal Claims</font>
 
@@ -69,6 +71,7 @@ Finally, regressions (3) and (6) use observations from all messengers at Velobli
 helps to control for demand variations over time. In fact, the treatment dummy in these last two regression still measures something different than before: it measures whether the treated group at Veloblitz behaved differently relative to messengers at Flash. Furthermore, the inclusion of a new dummy variable for the whole non-treated group at Veloblitz (i.e., non-participating messengers plus the control), also allows to measures whether the experiment had an effect on the whole nontreated group at Veloblitz by comparing this group with Flash messenger. The point estimate on this last dummy is in both (3) and (6) small and insignificant, suggesting that the wage increase had no effect on the nontreated group at Veloblitz. This result suggests that the experiment did not constrain the opportunities for working for the nontreated group at Veloblitz (and is consistent with the hypothesis of permanent existence of unfilled shifts). Finally, in both these models, the treatment dummy is significant and of similar size as in the previous regressions.
 </p>
 
+<br>
 
 <font size="5">4&nbsp;&nbsp; Difference in Differences</font>
 
