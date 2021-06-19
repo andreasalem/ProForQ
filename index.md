@@ -33,7 +33,7 @@ Here are two useful websites for who wants to learn more about what impact evalu
   - [Innovations for Poverty Action (IPA)](https://www.poverty-action.org/)
   - [Evidence for Policy Design (EPoD)](https://epod.cid.harvard.edu/)
 
-Furthermore, a brief slide presentation about this Project and my motivation for doing it can be found [here](https://drive.switch.ch/index.php/s/8r1ouGhw6GtC4bL), under "Extra".
+Furthermore, a brief slide presentation about this Project's results and notions such as causal and treatment effect or experimental vs. quasi-experimental methods, can be found [here](https://drive.switch.ch/index.php/s/8r1ouGhw6GtC4bL), under "Extra".
 
 <br>
 
