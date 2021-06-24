@@ -39,7 +39,7 @@ Furthermore, a brief slide presentation about this Project's results and notions
 
 <font size="5">2&nbsp;&nbsp; Technical Set-Up</font>
 
-The ipynb file with the main body of the project is also available at [this link](https://drive.switch.ch/index.php/s/2vcp5npHib4q01Y). We reccomend opening the file in the local Jupyter Notebook server, since the rendering could be different on other platforms (such as Google Collab, nbviewer, etc.). We also remind everyone to modify the current working directory at the beginning of the ipynb file in order to run the entire script correctly. Finally, also the `pip install` command may has to be run for some packages. 
+The .ipynb file with the main body of the project is also available at [this link](https://drive.switch.ch/index.php/s/2vcp5npHib4q01Y). We recomend opening the file in the local Jupyter Notebook server, since the rendering could be different on other platforms (such as Google Collab, nbviewer, etc.). We also remind everyone to modify the current working directory at the beginning of the .ipynb file in order to run the entire script correctly. Finally, also the `pip install` command may has to be run for some packages. 
 
 All four datasets used in the project can be found [here](https://drive.switch.ch/index.php/s/8r1ouGhw6GtC4bL), under "Data".
 
