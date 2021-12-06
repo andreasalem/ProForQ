@@ -5,8 +5,10 @@ This is the companion website for the final project within the course
 <br>
 <center><b> 4,796: Skills: Programming for Quantitative Analysis</b> </center> 
 <br>
+<p align="justify">
 taught by Prof. Valladares‑Esteban. The project which has been submitted from my part revolves around the use of Python for empirical economic research. The main body of the project is in the Jupyter Notebook file contaning the code (avaiable [here](https://drive.switch.ch/index.php/s/2vcp5npHib4q01Y) for download). This website serves to extend certain explanations and enrich the project with extra material not present in the Notebook file.
-
+</p>
+  
 <font size="5">Table of Contents</font>  <br>
 
 1. Introduction to Impact Evaluation <br>
