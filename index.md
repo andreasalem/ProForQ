@@ -1,5 +1,5 @@
 
-## Ciao ANA
+## Programming for Quantitative Analysis
 
 This is the companion website for the final project within the course
 <br>
