@@ -35,13 +35,13 @@ Here are three useful websites for who wants to learn more about what impact eva
   - [Innovations for Poverty Action (IPA)](https://www.poverty-action.org/)
   - [Evidence for Policy Design (EPoD)](https://epod.cid.harvard.edu/)
 
-Furthermore, a brief slide presentation about this Project's results and notions such as causal and treatment effect or experimental vs. quasi-experimental methods, can be found [here]([https://drive.switch.ch/index.php/s/8r1ouGhw6GtC4bL](https://drive.google.com/file/d/1wLGLdM-eqB6dY3IgULX0Ds9pDRy8hepl/view?usp=share_link)).
+Furthermore, a brief slide presentation about this Project's results and notions such as causal and treatment effect or experimental vs. quasi-experimental methods, can be found [here](https://drive.google.com/file/d/1wLGLdM-eqB6dY3IgULX0Ds9pDRy8hepl/view?usp=share_link).
 
 <br>
 
 <font size="5">2&nbsp;&nbsp; Technical Set-Up</font>
 
-The .ipynb file with the main body of the project is also available at [this link](https://drive.switch.ch/index.php/s/2vcp5npHib4q01Y). We recomend opening the file in the local Jupyter Notebook server, since the rendering could be different on other platforms (such as Google Collab, nbviewer, etc.). We also remind everyone to modify the current working directory at the beginning of the .ipynb file in order to run the entire script correctly. Finally, also the `pip install` command may has to be run for some packages. 
+The .ipynb file with the main body of the project is also available at [this link](https://drive.google.com/file/d/1OyeJwH-Cn8hIyM4XL908_16mdTRTqwLM/view?usp=share_link). We recomend opening the file in the local Jupyter Notebook server, since the rendering could be different on other platforms (such as Google Collab, nbviewer, etc.). We also remind everyone to modify the current working directory at the beginning of the .ipynb file in order to run the entire script correctly. Finally, also the `pip install` command may has to be run for some packages. 
 
 All four datasets used in the project can be found [here](https://drive.google.com/drive/folders/1q3aiDwpnYftsc19urJdJ2wYaSeHpkwc1?usp=share_link).
 
