@@ -6,7 +6,7 @@ This is the companion website for the final project within the course
 <center><b> 4,796: Skills: Programming for Quantitative Analysis</b> </center> 
 <br>
 
-taught by Prof. Valladares‑Esteban. The project which has been submitted from my part revolves around the use of Python for empirical economic research. The main body of the project is in the Jupyter Notebook file contaning the code (avaiable [here]([https://drive.switch.ch/index.php/s/2vcp5npHib4q01Y](https://drive.google.com/file/d/1OyeJwH-Cn8hIyM4XL908_16mdTRTqwLM/view?usp=share_link)) for download). This website serves to extend certain explanations and enrich the project with extra material not present in the Notebook file.
+taught by Prof. Valladares‑Esteban. The project which has been submitted from my part revolves around the use of Python for empirical economic research. The main body of the project is in the Jupyter Notebook file contaning the code (avaiable [here](https://drive.google.com/file/d/1OyeJwH-Cn8hIyM4XL908_16mdTRTqwLM/view?usp=share_link) for download). This website serves to extend certain explanations and enrich the project with extra material not present in the Notebook file.
 
   
 <font size="5">Table of Contents</font>  <br>
@@ -43,7 +43,7 @@ Furthermore, a brief slide presentation about this Project's results and notions
 
 The .ipynb file with the main body of the project is also available at [this link](https://drive.switch.ch/index.php/s/2vcp5npHib4q01Y). We recomend opening the file in the local Jupyter Notebook server, since the rendering could be different on other platforms (such as Google Collab, nbviewer, etc.). We also remind everyone to modify the current working directory at the beginning of the .ipynb file in order to run the entire script correctly. Finally, also the `pip install` command may has to be run for some packages. 
 
-All four datasets used in the project can be found [here]([https://drive.switch.ch/index.php/s/8r1ouGhw6GtC4bL](https://drive.google.com/drive/folders/1q3aiDwpnYftsc19urJdJ2wYaSeHpkwc1?usp=share_link)).
+All four datasets used in the project can be found [here](https://drive.google.com/drive/folders/1q3aiDwpnYftsc19urJdJ2wYaSeHpkwc1?usp=share_link).
 
 <br>
 
